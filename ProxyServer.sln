@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyServer", "ProxyServer\ProxyServer.csproj", "{DBA9CC0F-5119-4CA2-A40E-3614CB3C1706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FmeDesktop", "FmeDesktop\FmeDesktop.csproj", "{E9918773-1F31-4127-BCF7-33CF4BD7BEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{AC5FE6D5-3DA9-41F1-826E-CBD1D000F73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA9CC0F-5119-4CA2-A40E-3614CB3C1706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA9CC0F-5119-4CA2-A40E-3614CB3C1706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA9CC0F-5119-4CA2-A40E-3614CB3C1706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA9CC0F-5119-4CA2-A40E-3614CB3C1706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9918773-1F31-4127-BCF7-33CF4BD7BEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9918773-1F31-4127-BCF7-33CF4BD7BEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9918773-1F31-4127-BCF7-33CF4BD7BEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9918773-1F31-4127-BCF7-33CF4BD7BEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5FE6D5-3DA9-41F1-826E-CBD1D000F73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5FE6D5-3DA9-41F1-826E-CBD1D000F73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5FE6D5-3DA9-41F1-826E-CBD1D000F73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5FE6D5-3DA9-41F1-826E-CBD1D000F73E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97FAECB5-5C99-4FE2-A5E4-33B1D9E2FBE1}
+	EndGlobalSection
+EndGlobal
